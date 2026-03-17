@@ -10,3 +10,7 @@ bs4
 pypdf
 chromadb
 fiass-cpu
+wikipedia
+arxiv
+langchainhub
+langchain-groq
